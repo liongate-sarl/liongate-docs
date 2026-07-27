@@ -47,13 +47,3 @@ Closes #<issue-number>
 <!-- Anything a reviewer should know: tradeoffs, follow-up tickets, risks -->
 
 -
-
-## Checklist
-
-- [ ] PR title references the ticket ID
-- [ ] `Closes #` line included above
-- [ ] Acceptance Criteria from the ticket are met
-- [ ] Tests added/updated where relevant
-- [ ] CI checks passing
-- [ ] No unrelated changes bundled in
-- [ ] Screenshots/evidence attached (if applicable)
