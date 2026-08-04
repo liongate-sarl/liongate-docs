@@ -1,22 +1,19 @@
 ### PROJECT: Short, explicit ticket title
 
-> **Type:** `Feature` / `Bug` / `Technical Task` / `Improvement` / `Tech Debt`, ...
+
+> **Labels:** `backend`, `frontend`, `devops`, `api`, `ux`, ...
 >
-> **Priority:** `Critical` / `High` / `Medium` / `Low`
+> **Type:** `Feature` / `Bugfix` / `Task` / `Enhancement` / `Technical Debt` / `Hotfix` / `Epic` / `Refactor` / `Story` / `Documentation` / `Security` / `Spike` / `Integration` / `UI/UX`
 >
-> **Status:** `Backlog` / `Ready` / `In Progress` / `In Review` / `Testing` / `Done`, ...
+> **Priority:** `Urgent` / `High` / `Medium` / `Low`
 >
-> **Sprint / Milestone:** `-`
+> **Efforts:** `1` / `2` / `3` / `5` / `8` / `13`
 >
-> **Efforts:** `-`
+> **Status:** `Ideas`
+>
+> **Size:** `XS` / `S` / `M` / `L` / `XL`
 >
 > **Estimate:** `- hours`
->
-> **Assignee:** `-`
->
-> **Reporter:** `-`
->
-> **Labels:** `backend`, `frontend`, `devops`, `api`, `ux`, ...
 
 ---
 
