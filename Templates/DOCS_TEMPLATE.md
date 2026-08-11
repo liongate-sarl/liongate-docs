@@ -1,5 +1,3 @@
-# Page Title
-
 ## Purpose
 
 Explain why this documentation exists and what problem it solves.
