@@ -4,7 +4,7 @@
 
 ## Related Ticket
 
-Linked to #<issue-number>
+Closes #<issue-number>
 <!-- Use "Closes" / "Fixes" so the issue auto-closes on merge
      and the board's Code Review automation is triggered. -->
 
